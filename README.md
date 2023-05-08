@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![seindata](https://user-images.githubusercontent.com/40022088/236961209-7dbd5625-2b27-4268-8806-e6c20eaf7ddc.gif)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m a Business Analytics graduate student from Carlson School of Management, University of Minnesota
