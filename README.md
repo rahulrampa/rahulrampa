@@ -1,6 +1,14 @@
-### Hi there 👋
+<div id="header" align="left">
+<img src="https://user-images.githubusercontent.com/40022088/236961209-7dbd5625-2b27-4268-8806-e6c20eaf7ddc.gif" width="400"/>
+</div>
+<div id="badges" align="left">
+  <a href="https://www.linkedin.com/in/rahulrampa/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-![seindata](https://user-images.githubusercontent.com/40022088/236961209-7dbd5625-2b27-4268-8806-e6c20eaf7ddc.gif)
+## Hi there 👋
+
 
 Here are some ideas to get you started:
 
